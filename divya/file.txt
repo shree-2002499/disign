@@ -1,0 +1,5 @@
+hiii
+[A[A[C[C[C[C[B
+
+[A[A[A[C[C[C[C[C[C[C[C[C[B[C[C[C[C[C[C[B[C[C[[Acat >>file.txt
+hello
